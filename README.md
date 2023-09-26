@@ -6,7 +6,7 @@
 
 ### I'm a Father, Developer, Instructor, Mentor, and Content Creator
 - 👨🏽‍🎓 I enjoy teaching coding skills as well as helping students & fellow developers
-- 🌱 I'm currently growing my [Youtube Channel](https://www.youtube.com/c/davegrayteachescode)
+- 🌱 I'm currently growing my [Youtube Channel](https://www.youtube.com/@xuanan_92)
 - 📚 I'm constantly learning new skills and _striving for progress_
 - 🏆 Goal: Be the person I needed when I was younger
 - ⚡ Motto: _Keep striving for progress, not perfection_
