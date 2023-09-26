@@ -13,7 +13,7 @@
 
 ### 💻 Useful Links
 - 🚙 [FREE Web Dev Roadmap](https://courses.davegray.codes/) with 70+ Hours of tutorials
-- ❓ [My Discord]( https://discord.gg/neKghyefqh) is a great place to ask questions
+- ❓ [My Discord]( https://discord.gg/c7sRARd97a) is a great place to ask questions
 - ☕ [Buy Me A Coffee](https://www.buymeacoffee.com/davegray) if you like what I do. I appreciate the support! 
 
 ### 📺 Latest Youtube Videos
