@@ -20,22 +20,11 @@
 ### 📺 Youtube Videos
 
 <!-- YOUTUBE:START -->
-
-- [Rise of the AI Engineer - Interview with Shawn Swyx Wang Speaker at React Summit US](https://www.youtube.com/watch?v=0wydME9ajWM)
+- [Rise of the AI Engineer  - Interview with Shawn Swyx Wang Speaker at React Summit US](https://www.youtube.com/watch?v=0wydME9ajWM)
 - [Real Time Chat App with Users, Rooms | Node.js, Express, Socket.io](https://www.youtube.com/watch?v=ba4T590JPnw)
 - [👀 FormData was Bad Until Now! 🚀](https://www.youtube.com/watch?v=-owgB7FD638)
 - [Chat Activity Detection - Build a Chat App with Socket.io](https://www.youtube.com/watch?v=gOVjKoPgiM4)
-- # [🌊 Add Waves, Shapes &amp; Curves to Your Website](https://www.youtube.com/watch?v=AnP5CPVtO7Y)
-
-<!-- TODO: <>{}() &0& #0# =HTML for a father= Create script for this content with research what to share -->
-
-- [Html for a father](https://www.youtube.com/watch?v=SGQM7PU9hzI)
-  <!-- - [Socket.io Introduction - How to Build a Chat App](https://www.youtube.com/watch?v=SGQM7PU9hzI) -->
-  <!-- - [Building a Chat App - Intro to WebSockets](https://www.youtube.com/watch?v=J8xReLuBNPY) -->
-  <!-- - [How I Use AI to be a Productive Developer](https://www.youtube.com/watch?v=Yyn-yS1sKRY) -->
-  <!-- - [Want to Earn 6 Figures? Learn React! - Interview with Rachel Nabors, Speaker at React Summit US](https://www.youtube.com/watch?v=Kyk8pCbPI7U) -->
-  <!-- - [How to Mock a REST API Server for Testing with Jest &amp; React Testing Library](https://www.youtube.com/watch?v=k0LPNKWCxx0) -->
-
+- [🌊 Add Waves, Shapes &amp; Curves to Your Website](https://www.youtube.com/watch?v=AnP5CPVtO7Y)
 <!-- YOUTUBE:END -->
 
 ### 📬 Connect with me:
