@@ -20,11 +20,11 @@
 ### 📺 Youtube Videos
 
 <!-- YOUTUBE:START -->
+- [React Summit US - Summit Track - Live](https://www.youtube.com/watch?v=DSSD9_O0w-o)
 - [Next.js MISTAKE is 👀 Easy to Make!](https://www.youtube.com/watch?v=loW6Zp5ussg)
 - [Nest.js Controllers Tutorial](https://www.youtube.com/watch?v=otw0zQ0NSa4)
 - [Don&#39;t Skip this JS tip! 🔥🚀](https://www.youtube.com/watch?v=XA-5tXaWTPc)
 - [Nest.js Tutorial for Beginners](https://www.youtube.com/watch?v=juNVinepwKA)
-- [👋👋 Bye Bye Nodemon!](https://www.youtube.com/watch?v=tmI8oFG670A)
 <!-- YOUTUBE:END -->
 
 ### 📬 Connect with me:
